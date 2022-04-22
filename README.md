@@ -1,4 +1,4 @@
-# PG-1 = PHOTO GALLARY
+# PG-1 = PHOTO GALLARY 01
 
 Hii! everyone, today in this code we will learn about how to "Create Responsive Image Gallery Using HTML and CSS". In almost every website there is a image gallery section. Here, we are going to design a responsive image gallery using HTML and CSS.
 
